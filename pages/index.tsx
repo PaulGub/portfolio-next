@@ -1,18 +1,45 @@
 import Image from 'next/image'
-import logo from '../images/roi-lion.gif'
-
+import Link from "next/link";
+import Head from "next/head";
 
 export default function Home() {
   return (
-    <div className="bg-cover bg-blue-300 h-screen w-full flex flex-col items-center justify-center p-4">
+    <>
+      <Head>
+        <link rel="icon" href="/paul.png" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
+        <title>Paul Gubbiotti</title>
+        <meta name="description" content="Paul Gubbiotti" />
+      </Head>
 
-    <h1 className="text-4xl lg:text-8xl lg:p-9 p-2"> Bienvenue sur gubbiotti.fr </h1>
+      <div className="bg-cover bg-blue-500 h-screen w-full flex flex-col items-center justify-center p-4">
 
-    <p className="lg:p-9 p-2">Site en cours de construction, bientôt sur vos écrans !</p>
+        <h1 className="text-6xl text-stone-50 text-center font-fancy pb-8">Paul Gubbiotti</h1>
+        <p className="text-stone-50 italic pb-4">Développeur Web (Next JS et Laravel)</p>
 
-    <Image src={logo} width="500" height="500" alt="logo" />
+        <Image className="rounded-full pb-4" src="/paul.png" width="400" height="400" alt="photo de paul gubbiotti" />
 
-    </div>
+        <div className="flex pb-4">
+          <Link target="_blank" href="https://github.com/PaulGub">
+            <Image src="/github.svg" width={40} height={40} alt={"logo de instagram"}></Image>
+          </Link>
+
+
+
+          <Link target="_blank" href="https://www.linkedin.com/in/paul-gubbiotti/">
+            <Image src="/linkedin.svg" width={43} height={43} alt={"logo de youtube"}></Image>
+          </Link>
+        </div>
+
+
+        <div className="flex">
+          <Image src="/email-icon.png" width="20" height="20" alt="logo email" />
+          <p className=" text-stone-5 text-stone-50 pl-2"><Link href="mailto:paul.gubbiotti@gmail.com">paul.gubbiotti@gmail.com</Link></p>
+        </div>
+
+      </div>
+    </>
 
   )
 }
