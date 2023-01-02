@@ -38,7 +38,7 @@ export default function Home() {
                 <h1 className="text-4xl pb-4"> I/ Les grands principes</h1>
 
                 <p className=" italic pb-4">
-                    Les sites web sont plus simples et rapides d’accès. En effet, il ne nécessite aucune installation particulière, pas de système d’exploitation par exemple. Il suffit d’un accès à un internet et du lien et, c'est bon, vous êtes sur le site.
+                    Les sites web sont plus simples et rapides d’accès. En effet, il ne nécessite aucune installation particulière, pas de système d’exploitation par exemple. Il suffit d’un accès à un internet et du lien et, c’est bon, vous êtes sur le site.
                 </p>
 
                 <p className="italic pb-4">
@@ -58,7 +58,7 @@ export default function Home() {
                 <h1 className="text-4xl pb-4"> II/ Les grands utilisateurs</h1>
 
                 <p className=" italic pb-4">
-                    Un exemple flagrant, Flipkart Lite (principal site e-commerce en Inde), redéveloppé en PWA en 2015, ce qui a conduit à 70 % d'augmentation.
+                    Un exemple flagrant, Flipkart Lite (principal site e-commerce en Inde), redéveloppé en PWA en 2015, ce qui a conduit à 70 % d’augmentation.
                 </p>
 
                 <p className="italic pb-4">
@@ -108,7 +108,7 @@ export default function Home() {
 
                 <p className="italic">
 
-                    Le site web PWA Stats partage de nombreux cas d'études qui démontrent ces bénéfices.
+                    Le site web PWA Stats partage de nombreux cas d’études qui démontrent ces bénéfices.
                 </p>
 
             </div>
@@ -133,12 +133,12 @@ export default function Home() {
                 </p>
 
                 <p className="italic pb-4">
-                    Elles sont développées à l'aide de technologies spécifiques et de standards leur permettant de tirer parti à la fois des fonctionnalités du web et de celles des applications natives.
+                    Elles sont développées à l’aide de technologies spécifiques et de standards leur permettant de tirer parti à la fois des fonctionnalités du web et de celles des applications natives.
 
                 </p>
 
                 <p className="italic pb-4">
-                    Ce n'est pas évident de savoir si une application est une PWA. Une application peut être considérée une application web progressive si elle remplit certains critères, intégrés des  fonctionnalités : fonctionne hors-ligne, est installable, est facile à synchroniser, peut envoyer des notifications push, etc.
+                    Ce n’est pas évident de savoir si une application est une PWA. Une application peut être considérée une application web progressive si elle remplit certains critères, intégrés des  fonctionnalités : fonctionne hors-ligne, est installable, est facile à synchroniser, peut envoyer des notifications push, etc.
                 </p>
 
                 <p className="italic pb-4">
@@ -147,7 +147,7 @@ export default function Home() {
                 </p>
 
                 <p className="italic">
-                    Il y a des principes clés qu'une application web devrait suivre afin d'être identifié comme une PWA. Elle doit être :
+                    Il y a des principes clés qu’une application web devrait suivre afin d’être identifié comme une PWA. Elle doit être :
 
                 </p>
 
@@ -156,11 +156,11 @@ export default function Home() {
                     <tbody>
                         <tr>
                             <td>Discoverable (Découvrable)</td>
-                            <td>afin que le contenu soit trouvé à l'aide de moteurs de recherche.</td>
+                            <td>afin que le contenu soit trouvé à l’aide de moteurs de recherche.</td>
                         </tr>
                         <tr>
                             <td>Installable</td>
-                            <td>afin d'être disponible sur l'écran d'accueil de l'appareil.</td>
+                            <td>afin d’être disponible sur l’écran d’accueil de l’appareil.</td>
                         </tr>
                         <tr>
                             <td>Linkable (Lien vers)</td>
@@ -168,23 +168,23 @@ export default function Home() {
                         </tr>
                         <tr>
                             <td>Network independent (Indépendant du réseau)</td>
-                            <td>afin qu'elle fonctionne hors-ligne ou avec une mauvaise connexion internet.</td>
+                            <td>afin qu’elle fonctionne hors-ligne ou avec une mauvaise connexion internet.</td>
                         </tr>
                         <tr>
                             <td>Progressive (Progressif)</td>
-                            <td>afin qu'elle soit utilisable sur les plus vieux navigateurs, mais complétement fonctionnelle sur les derniers.</td>
+                            <td>afin qu’elle soit utilisable sur les plus vieux navigateurs, mais complétement fonctionnelle sur les derniers.</td>
                         </tr>
                         <tr>
                             <td>Re-engageable (Réengageable)</td>
-                            <td>afin qu'elle soit capable d'envoyer des notifications lorsque du nouveau contenu est disponible.</td>
+                            <td>afin qu’elle soit capable d’envoyer des notifications lorsque du nouveau contenu est disponible.</td>
                         </tr>
                         <tr>
                             <td>Responsive (Réactif)</td>
-                            <td>afin qu'elle soit fonctionnelle sur n'importe quel appareil et résolution d'écran — téléphones mobiles, tablettes, ordinateurs portables, télévisions, réfrigérateurs, etc.</td>
+                            <td>afin qu’elle soit fonctionnelle sur n’importe quel appareil et résolution d’écran — téléphones mobiles, tablettes, ordinateurs portables, télévisions, réfrigérateurs, etc.</td>
                         </tr>
                         <tr>
                             <td>Safe (Sécurité)</td>
-                            <td>afin que la connexion entre vous et l'application soit sécurisée et prévienne n'importe quel tiers d'accéder à vos données.</td>
+                            <td>afin que la connexion entre vous et l’application soit sécurisée et prévienne n’importe quel tiers d’accéder à vos données.</td>
                         </tr>
                     </tbody>
                 </table>
