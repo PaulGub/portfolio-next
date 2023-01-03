@@ -214,7 +214,7 @@ export default function Home() {
             <div className="p-6 bg-blue-500 text-stone-50 lg:h-screen" id="part 8">
                 <h1 className="text-4xl pb-4">Sources</h1>
                 <p className="italic">
-                    <Link target="black" href="https://developer.mozilla.org/fr/docs/Web/Progressive_web_apps">https://developer.mozilla.org/fr/docs/Web/Progressive_web_apps</Link>
+                    <Link target="black" href="https://developer.mozilla.org/fr/docs/Web/Progressive_web_apps">https://developer.mozilla.org</Link>
                     <br></br>
                     <Link target="black" href="https://deckad.fr/quest-ce-que-la-progressive-web-app-ses-avantages-et-inconvenients/">https://deckad.fr/quest-ce-que-la-progressive-web-app-ses-avantages-et-inconvenients/</Link>
                     <br></br>
