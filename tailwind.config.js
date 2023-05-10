@@ -4,10 +4,18 @@ module.exports = {
   darkMode: false, // or 'media' or 'class'
   theme: {
     extend: {
+      colors: {
+        'pur': '#3B82F6',
+      },
       fontFamily: {
-        sans: ['Arial', ...defaultTheme.fontFamily.sans],
+        sans: ['Abhaya Libre', ...defaultTheme.fontFamily.sans],
         fancy: ['Pacifico'],
       },
+      fontSize: {
+        sm: '3px',
+        base: '3px',
+        xl: '20px',
+      }
     },
   },
   variants: {
