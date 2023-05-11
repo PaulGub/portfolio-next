@@ -12,7 +12,7 @@ export default function Footer(props: FooterProps) {
       <div className="bg-pur text-stone-50 px-2 lg:py-0 py-4">
         <div className="py-4">
           <div className="flex flex-col items-center justify-center">
-            <p className="pb-2 text-xl">Paul Gubbiotti</p>
+            <p className="pb-2 text-xl font-fancy">Paul Gubbiotti</p>
             <div className="flex flex-col items-center justify-center pb-2">
               {contacts.map(contact => (
                 <div key={contact.title} className="flex items-center pr-4">
