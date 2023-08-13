@@ -1,1 +1,2 @@
-export const actual = "Actuellement étudiant en licence professionnelle de développement web, je suis à la recherche d'une opportunité d'alternance pour l'année prochaine. Je souhaite intégrer un programme de master en développement web à Ynov Bordeaux."
+export const actual =
+  "Actuellement étudiant en Licence Professionnelle Développement d'Application Web et Innovation Numérique à l'IUT de Bordeaux.";
