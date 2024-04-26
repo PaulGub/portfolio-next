@@ -8,16 +8,22 @@ export const projects = [
       "Mon site portfolio est un espace en ligne où je présente mes compétences, mes réalisations et mes projets passés. Il est conçu pour mettre en valeur mes talents et me permettre de me connecter avec d'éventuels employeurs ou clients potentiels.",
     techno: ["NextJS", "TailwindCSS"],
   },
-  /*
-    {
-        linkGitHub: "https://github.com/PaulGub/angevie-next",
-        link: "https://www.angeetvie.fr/",
-        img: "/projects/angelique.png",
-        title: "Site Ange&Vie",
-        description: "Ange&Vie est un site web dédié à l'énergétique et à la guérison holistique, proposant une gamme de prestations de qualité pour aider les individus à retrouver l'équilibre et le bien-être dans leur vie. La propriétaire, une énergéticienne expérimentée, y présente ses différentes prestations, incluant la thérapie énergétique, la méditation guidée et les soins énergétiques à distance. Le site offre également une description détaillée des tarifs pratiqués, ainsi qu'une présentation personnelle de l'énergéticienne, mettant en avant son expérience et sa passion pour aider les gens à se sentir mieux dans leur corps et leur esprit.",
-        techno: ["WordPress"],
-    },
-    */
+  {
+    link: "https://www.aqua-aurea.fr/",
+    img: "/projects/aqua-aurea.png",
+    title: "Aqua Aurea",
+    description:
+      "Aqua Aurea est un site qui présente une entreprise spécialisée dans la rénovation de salles de bains à Bordeaux.",
+    techno: ["WordPress"],
+  },
+  {
+    link: "https://www.maisondlhm.com/",
+    img: "/projects/maisondlhm.png",
+    title: "Maison DLHM",
+    description:
+      "Maison DLHM est un site qui présente une entreprise spécialisée dans les prestations esthétiques à Bordeaux. Elle propose également des formations en ligne.",
+    techno: ["WordPress"],
+  },
   {
     linkFigma:
       "https://www.figma.com/file/XlTEMQET0PNQDr5nsp8Uzb/Nnuno?type=design&node-id=3-99&t=OGNGDH2lqJ3P9B4U-0",
