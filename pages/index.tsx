@@ -40,7 +40,7 @@ const Home: NextPage = () => {
                             </div>
                         </div>
                         <div className='col-span-2 lg:justify-start justify-center flex py-7 px-2'>
-                            <Image className="bg-pur rounded-full" src={"/paul.png"} width="400" height="400" alt="image de paul gubbiotti" />
+                            <Image className="rounded-full" src={"/paul.jpg"} width="400" height="400" alt="image de paul gubbiotti" />
                         </div>
                     </div>
                 </div>
