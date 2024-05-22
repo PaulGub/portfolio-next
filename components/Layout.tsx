@@ -15,7 +15,7 @@ export default function Layout(props: LayoutProps) {
         <>
 
             <Head>
-                <link rel="icon" href="/favicon.png" />
+                <link rel="icon" href="/paul.jpg" />
                 <link rel="preconnect" href="https://fonts.googleapis.com" />
                 <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
                 <title>Paul Gubbiotti</title>
