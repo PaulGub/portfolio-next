@@ -1,2 +1,2 @@
 export const actual =
-  "Étudiant à l'INSEEC Bordeaux en master de marketing digital";
+  "Assistant marketing chez Bacqueyrisses et étudiant à l'INSEEC Bordeaux en master Marketing Digital & E-business";
