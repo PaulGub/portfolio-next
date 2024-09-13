@@ -24,7 +24,7 @@ const Home: NextPage = () => {
                             <h1 className="text-4xl">
                                 <Typewriter
                                     options={{
-                                        strings: ['Développeur Web', 'Curieux', 'Passionné', 'Rigoureux', 'Organisé', 'Polyvalent', 'Motivé'],
+                                        strings: ['Assistant marketing', 'Développeur Web', 'Curieux', 'Passionné', 'Rigoureux', 'Organisé', 'Polyvalent', 'Motivé'],
                                         autoStart: true,
                                         loop: true,
                                         deleteSpeed: 15,
