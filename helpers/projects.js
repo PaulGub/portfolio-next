@@ -9,6 +9,15 @@ export const projects = [
     techno: ["NextJS", "TailwindCSS"],
   },
   {
+    link: "https://www.jagocyclette.fr/",
+    img: "/projects/jagolipette.png",
+    title: "Jagolipette",
+    description:
+      "Jagolipette est une marque de vélos née à Cestas, en Gironde. Le site présente toute la gamme Gravel, VTT et Route, conçue par des passionnés pour les passionnés.",
+    techno: ["WordPress"],
+  },
+
+  {
     link: "https://www.aqua-aurea.fr/",
     img: "/projects/aqua-aurea.png",
     title: "Aqua Aurea",
